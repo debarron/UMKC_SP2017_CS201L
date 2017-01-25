@@ -1,0 +1,33 @@
+# Cover the basic data types
+- int
+- float
+- char
+- string
+
+# Cover streams
+- cout
+- cin
+
+# Cover control flow
+- if
+- if, else
+- if, else if, else
+- switch
+
+# Cover good practices
+- indentation
+- comments
+- variable names
+- structure the code
+
+# Cover loops
+- for
+- while
+- do while
+
+# Exercices
+- Read age
+- Deadpool show
+- Guess a number
+- Print the days of a month
+- Multiplication matrix
